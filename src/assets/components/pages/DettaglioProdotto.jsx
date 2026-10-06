@@ -1,5 +1,5 @@
 export default function DettaglioProdotto() {
   return (
-    <div>DettaglioProdotto</div>
+    <div>Dettaglio Prodotto: </div>
   )
 }
